@@ -13,9 +13,9 @@ tag: [Ornament, Hanfu]
 
 ![000000](../assets/img/000000.jpg)
 
-![000001](../assets/img/000001.jpg)
+![000001](000001.jpg)
 
-![000002](../assets/img/000002.jpg)
+![000002](assets/img/000002.jpg)
 
 ![000003](../assets/img/000003.jpg)
 
